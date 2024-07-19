@@ -1,1 +1,1 @@
-# telerymodule_spam
+# Модуль spam для юзербота Telery.
